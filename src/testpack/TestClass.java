@@ -7,5 +7,6 @@ public class TestClass
         System.out.println("TestClass.main");
         System.out.println("TestClass.main remote");
         System.out.println("TestClass.main local");
+        System.out.println("TestClass.main remote2");
     }
 }
