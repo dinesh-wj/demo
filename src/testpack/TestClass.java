@@ -24,5 +24,7 @@ public class TestClass
 
         System.out.println("Demo2 more local changes 3");
 
+        System.out.println("Master local changes 4");
+
     }
 }
