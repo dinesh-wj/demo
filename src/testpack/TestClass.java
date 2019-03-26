@@ -8,5 +8,7 @@ public class TestClass
         System.out.println("TestClass.main remote");
         System.out.println("TestClass.main local");
         System.out.println("TestClass.main remote2");
+        System.out.println("Master changes..");
+
     }
 }
