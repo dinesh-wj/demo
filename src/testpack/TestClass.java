@@ -17,5 +17,7 @@ public class TestClass
         
         
         System.out.println("Remote changes 2");
+        
+        System.out.println("Remote changes 3");
     }
 }
