@@ -14,5 +14,8 @@ public class TestClass
         System.out.println("Demo2 commit");
 
         System.out.println("Master local changes...");
+
+        System.out.println("Demo2 more local changes 3");
+
     }
 }
