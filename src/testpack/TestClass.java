@@ -9,5 +9,6 @@ public class TestClass
         System.out.println("TestClass.main local");
         System.out.println("TestClass.main remote2");
         System.out.println("TestClass.main local2");
+        System.out.println("Demo2 commit");
     }
 }
