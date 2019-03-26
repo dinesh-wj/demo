@@ -12,6 +12,8 @@ public class TestClass
         System.out.println("Demo2 commit");
 
         System.out.println("Demo2 more local changes..");
+        System.out.println("Up to stash...");
+
         System.out.println("Demo2 more local changes 2");
 
     }
