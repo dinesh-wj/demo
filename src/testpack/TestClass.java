@@ -14,5 +14,8 @@ public class TestClass
         System.out.println("Demo2 commit");
         
         System.out.println("Remote changes");
+        
+        
+        System.out.println("Remote changes 2");
     }
 }
